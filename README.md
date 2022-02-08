@@ -1,0 +1,1 @@
+This is a Guess That Word program. The secret word is "giraffe" and the program will ask you to guess the secret word over and over until you get it correct.
