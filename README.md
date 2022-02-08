@@ -1,1 +1,1 @@
-This is a Guess That Word program. The secret word is "giraffe" and the program will ask you to guess the secret word 3 times. If you don't answer correctly within those 3 tries, the game is over.
+This is a Guess That Word program. The secret word is "giraffe" and the program will ask you to guess the secret word over and over until you get it correct.
